@@ -1,3 +1,3 @@
 # odin-recipes
 A simple recipe website using HTML
-Website include three recipes 
+which includes three recipes, images and steps.
