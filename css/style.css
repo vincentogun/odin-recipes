@@ -1,0 +1,28 @@
+.head
+{
+    color: bisque;
+    background-color: black;
+    background-position: center;
+    border-radius: 50px 50px 50px 50px;
+}
+
+h1
+{
+    text-align: center;
+}
+
+
+body
+{
+    color: rgb(3, 0, 0);
+    background-size: contain;
+    background-position: center;
+    /*padding: 100px 50px;*/
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 0px;
+    line-height: 1.1;
+    font-weight: bold;
+    font-style: 30px;
+    line-height: 1.4;
+    font-weight: lighter;
+}
