@@ -26,3 +26,7 @@ body
     line-height: 1.4;
     font-weight: lighter;
 }
+
+ul{
+    list-style-type: none;
+}
